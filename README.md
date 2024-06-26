@@ -1,1 +1,1 @@
-# Esca-Plugin的图片源
+# Esca-Plugin的竖屏图片源
